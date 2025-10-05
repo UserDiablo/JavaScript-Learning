@@ -12,7 +12,7 @@ console.log("n1: ", n1);
 let n2 = myarray.splice(1,3)
 console.log("After Splice: ", myarray);
 console.log("n2: ", n2);
-
+console.log("myname")
 
 
 
